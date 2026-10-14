@@ -8,7 +8,7 @@
 
 🤝 I’m looking for help with Nothing
 
-👨💻 All of my projects are available at [github.com/marexio](/marexio) https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.YvC5h7DAhNbQRG8ygaRmFQHaHa%3Fpid%3DApi&f=1&ipt=9c2c1aa001c89e26267bbc9d176ecefb07b368b067592aad5cf16cdf7d0feaf3&ipo=images
+👨💻 All of my projects are available at [github.com/marexio](/marexio)
 
 <h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://dev.to/marexio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="marexio" height="30" width="40" /></a> <a href="https://dev.to/marexio" target="blank"> <a href="https://tiktok.com/@dreifachmichael" target="blank"><img align="center" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.YvC5h7DAhNbQRG8ygaRmFQHaHa%3Fpid%3DApi&f=1&ipt=9c2c1aa001c89e26267bbc9d176ecefb07b368b067592aad5cf16cdf7d0feaf3&ipo=images" alt="marexiotk" height="30" width="30" /></a> </p>
 
