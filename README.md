@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm MarexIo</h1> <h3 align="center">A Cybersecurity Student working Defensive/Offensive</h3>
 <div align="center">
+<br>
+  
 [![Website](https://img.shields.io/badge/🌍%20Website-1f6feb?style=for-the-badge)](https://marexio.exoduck.space)
 [![Discord](https://img.shields.io/badge/💬%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://example.com)
 
